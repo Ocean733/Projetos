@@ -1,0 +1,202 @@
+/*body*/
+body {
+    padding: 0px;
+    margin: 0;
+    background-color: rgb(41, 38, 38);   
+}
+/* ------------------------------------------------------------ */
+/*Nav-Bar*/
+nav{
+    width: 100%;
+    display: flex;
+    position: fixed;
+    background-color: rgb(41, 38, 38);
+    overflow: hidden;
+
+}
+nav a:hover{
+opacity: 0.7;
+}
+
+nav a {
+    float: left;
+    list-style: none;
+    margin-left: 20px;
+    color: white;
+    margin: auto 20px auto 40px;
+    text-decoration: none;
+    font-weight: bold;
+
+}
+/* ----------------------------------------------------------------- */
+/* Imagem Página Inicial */
+.img-inicial {
+    padding: 40px;
+}
+
+div {
+   
+    display: inline-block;
+}
+.sobre-txt {
+    padding: 40px;
+    display: inline-block ;
+    vertical-align: top;
+  
+}
+.sobre-mim {
+    vertical-align: top;
+    display: inline-block;
+    width: 510px;
+    margin-right: 15%;
+    font-size: 37px;
+    padding: 50px;
+    align-items: center;
+    text-align: justify;
+    color: rgb(170, 168, 168);
+}
+/* ----------------------------------------------------------------- */
+/*Roda-pe*/
+footer {
+    font-size: 30px;
+    padding: 9px;
+    background-color: rgb(48, 44, 44);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+
+}
+.rodape img{
+	width: 60px;
+}
+.rodape{
+	border-style: ridge;
+	border-radius: 20px;
+	
+}
+.rodape{
+	display: flex;
+padding-top: 20px;
+padding-bottom: 20px;
+justify-content: center;
+
+}
+.contact{
+	text-align: end;
+	color: aliceblue;
+ font-size: medium;
+}
+.rodape .actions{
+	margin-right: 20px;
+	margin-left: 20px;
+}
+/* ----------------------------------------------------------------- */
+/*Card*/
+.card {
+    box-shadow: 0 4px 8px 0 rgba(231, 221, 221, 0.281);
+    max-width: 300px;
+    margin: auto;
+    text-align: center;
+    display: inline-block;
+}
+.title {
+    color: rgb(253, 253, 253);
+    font-size: 18px;
+}
+.btn-sobre {
+    border: none;
+    outline: 0;
+    display: inline-block;
+    padding: 8px;
+    color: white;
+    background-color: rgb(0, 0, 0);
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+}
+.card a {
+    text-decoration: none;
+    font-size: 22px;
+    color: rgb(255, 255, 255);
+
+}
+.btn-sobre:hover {
+    opacity: 0.7;
+}
+.nome-card{
+    color: aliceblue;
+}
+.card p{
+    color: bisque;
+}
+.card h1{
+    color: antiquewhite;
+}
+/* --------------------------------------------------- */
+/*Formatação Texto*/
+.titulo{
+    text-align: center;
+    font-size: 40px;
+    border-style: ridge;
+    border-radius: 60px;
+    color: aliceblue;
+}
+.descricao{
+    text-align: center;
+    font-size: 25px;
+    padding-left: 20px;
+    padding-right: 20px;
+    color: antiquewhite;
+}
+/* ------------------------------------------------------ */
+/* Atuação */
+.Atp{
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+.Desc{
+    text-align: center;
+    border-style: groove;
+    font-size: 30px;
+    color: rgb(0, 255, 255);
+padding-left: 50px;
+padding-right: 50px;
+}
+/* ------------------------------------------------------ */
+/* Formação */
+.form-form{
+    font-size: 25px;
+text-align: justify;
+color: rgb(255, 255, 255);
+}
+.form-acad{
+    text-align: center;
+    color: rgb(0, 255, 255);
+}
+/* ------------------------------------------------------- */
+/* Formulário */
+
+.cntts{
+    padding: 0px;
+    margin: 0;
+    background-color: rgba(41, 38, 38, 0.39);
+   
+}
+
+.formulario-contato{
+    border-style:groove;
+    border-radius: 11px;
+    border-color: rgba(129, 80, 19, 0.801);
+}
+
+.formu-contact{
+    font-size: 40px;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+form{
+    padding: 15px;
+}
+/* -------------------------------------------------------- */
+/* Videos */
+
