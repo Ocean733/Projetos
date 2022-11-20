@@ -1,0 +1,9 @@
+Link para o portifolio:
+
+https://github.com/Ocean733/Portifolio-estilizado-com-css
+
+Quando extrair o arquivo jogue a pasta:
+
+ Inicio-20220928T002311Z-001
+
+Dentro do VScode não sei porque mas se for outra as imagens ficam quebradas, e não achei uma forma de de tirar a "/" antes de cada link. Pois sempre que tentava as imagem e paginas quebravam. Pesquisei e não achei muito sobre. Vou continuar trabalhando neste projeto e o melhorar. Obg ;) 
